@@ -1,0 +1,9 @@
+ADC
+
+TEST1 - TEST2
+- Test 1 mucho más rapido que test 2 
+- Test 2 más preciso que test 1 (varianza mucho menor)
+
+TEST1 - TEST3
+- Resultados bastante similares
+- Varianza del test 3 es un poco menor que de test 1 en mismo tiempo de ejecución
